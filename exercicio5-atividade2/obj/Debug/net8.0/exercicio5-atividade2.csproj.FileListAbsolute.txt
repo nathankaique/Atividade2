@@ -12,3 +12,17 @@ C:\Users\nathanestecio\exercicio5-atividade2\obj\Debug\net8.0\refint\exercicio5-
 C:\Users\nathanestecio\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.pdb
 C:\Users\nathanestecio\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.genruntimeconfig.cache
 C:\Users\nathanestecio\exercicio5-atividade2\obj\Debug\net8.0\ref\exercicio5-atividade2.dll
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\bin\Debug\net8.0\exercicio5-atividade2.exe
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\bin\Debug\net8.0\exercicio5-atividade2.deps.json
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\bin\Debug\net8.0\exercicio5-atividade2.runtimeconfig.json
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\bin\Debug\net8.0\exercicio5-atividade2.dll
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\bin\Debug\net8.0\exercicio5-atividade2.pdb
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.AssemblyInfoInputs.cache
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.AssemblyInfo.cs
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.csproj.CoreCompileInputs.cache
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.dll
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\refint\exercicio5-atividade2.dll
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.pdb
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\exercicio5-atividade2.genruntimeconfig.cache
+C:\Users\nathanestecio\Downloads\Atividade2-main\exercicio5-atividade2\obj\Debug\net8.0\ref\exercicio5-atividade2.dll
