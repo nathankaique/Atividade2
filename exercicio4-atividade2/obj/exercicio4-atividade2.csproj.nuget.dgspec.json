@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nathanestecio\\exercicio4-atividade2\\exercicio4-atividade2.csproj": {}
+    "C:\\Users\\nathanestecio\\Downloads\\Atividade2-main\\exercicio4-atividade2\\exercicio4-atividade2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nathanestecio\\exercicio4-atividade2\\exercicio4-atividade2.csproj": {
+    "C:\\Users\\nathanestecio\\Downloads\\Atividade2-main\\exercicio4-atividade2\\exercicio4-atividade2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nathanestecio\\exercicio4-atividade2\\exercicio4-atividade2.csproj",
+        "projectUniqueName": "C:\\Users\\nathanestecio\\Downloads\\Atividade2-main\\exercicio4-atividade2\\exercicio4-atividade2.csproj",
         "projectName": "exercicio4-atividade2",
-        "projectPath": "C:\\Users\\nathanestecio\\exercicio4-atividade2\\exercicio4-atividade2.csproj",
+        "projectPath": "C:\\Users\\nathanestecio\\Downloads\\Atividade2-main\\exercicio4-atividade2\\exercicio4-atividade2.csproj",
         "packagesPath": "C:\\Users\\nathanestecio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nathanestecio\\exercicio4-atividade2\\obj\\",
+        "outputPath": "C:\\Users\\nathanestecio\\Downloads\\Atividade2-main\\exercicio4-atividade2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nathanestecio\\AppData\\Roaming\\NuGet\\NuGet.Config"
